@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working with **GANs and Diffusion Models**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **Fullstack**
 
 - 👯 I’m looking to collaborate on **DL projects**
 
