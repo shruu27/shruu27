@@ -1,6 +1,6 @@
 <h3 align="center">Hi there! 👋</h3>
 
-- 🔭 I’m currently working with **GANs and Diffusion Models**
+- 🔭 I’m currently working with **Agentic AI**
 
 - 🌱 I’m currently learning **Fullstack**
 
